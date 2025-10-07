@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,khan223,Han,Kunyi
 employee,rgao82,Gao,Rui
